@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Rina👋</h1>
 <h3 align="center">I'm just a transgender girl who likes making things!</h3>
-<p style="padding-left: 142px; " align="center"><img style="float: left;" src="https://img.shields.io/static/v1?label=Pronouns&amp;message=she/her&amp;color=E6A1FF&amp;style=for-the-badge" alt="" width="176" height="28" /><a href="https://yusarina.xyz"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://img.shields.io/website?label=Yusarina.xyz&amp;style=for-the-badge&amp;url=https%3A%2F%2FYusarina.xyz" alt="" width="157" height="28" /></a></p>
+<p style="padding-left: 142px; " align="center"><img style="float: left;" src="https://img.shields.io/static/v1?label=Pronouns&message=she/her&color=E6A1FF&style=for-the-badge" alt="" width="176" height="28" /><a href="https://yusarina.xyz"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://img.shields.io/website?label=Yusarina.xyz&amp;style=for-the-badge&amp;url=https%3A%2F%2FYusarina.xyz" alt="" width="157" height="28" /></a></p>
 <p style="padding-left: 142px;">&nbsp;</p>
 <p>🔭&nbsp;I&rsquo;m currently working on <a href="https://github.com/Yusarina/Rina-s-Blender-Tools">Rina's Blender Tool's</a> and <a href="https://github.com/Yusarina/Cats-Blender-Plugin-Unofficial-">Cats Blender Plugin Unofficial</a>.</p>
 <p>🌱 I&rsquo;m currently learning, C-sharp, varios other things.</p>
