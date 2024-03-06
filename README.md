@@ -5,7 +5,7 @@
 <p>🔭&nbsp;I&rsquo;m currently working on <a href="https://github.com/Yusarina/Rina-s-Blender-Tools">Rina's Blender Tool's</a> and <a href="https://github.com/Yusarina/Cats-Blender-Plugin-Unofficial-">Cats Blender Plugin Unofficial</a>.</p>
 <p>🌱 I&rsquo;m currently learning, C-sharp, various other things.</p>
 <p>👨&zwj;💻 My projects are either <a href="https://yusarina.xyz">here</a>, or <a href="https://github.com/Yusarina?tab=repositories">here</a>.</p>
-<p>⚡Fun face: I started with VR with a Oculus DK1, those were fun times.</p>
+<p>⚡Fun fact: I started with VR with a Oculus DK1, those were fun times.</p>
 <p>&nbsp;</p>
 <p>All my socials can be found on my website <a href="https://yusarina.xyz">here</a>!</p>
 <p align="center">&nbsp;</p>
